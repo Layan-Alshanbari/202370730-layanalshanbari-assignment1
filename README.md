@@ -11,6 +11,15 @@ HTML, CSS, and JavaScript.
 - Projects section
 - Contact form
 - Responsive design
+- Dark and light mode
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
+- IntelliJ IDEA
 
 ## How to Run the Project
 
