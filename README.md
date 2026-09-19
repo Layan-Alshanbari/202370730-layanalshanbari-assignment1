@@ -33,6 +33,9 @@ ChatGPT was used to help plan the project, explain concepts, review code,
 and improve the documentation. All suggestions were reviewed and modified
 before being included.
 
+## Live Website
+https://layan-alshanbari.github.io/202370730-layanalshanbari-assignment1/
+
 ## Author
 
 Layan Alshanbari
